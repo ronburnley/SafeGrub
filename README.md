@@ -1,5 +1,5 @@
 # Safe Grub - Allergy Detection Web App
-Try it out! shiny-croissant-1456de.netlify.app
+Try it out! [SafeGrub](shiny-croissant-1456de.netlify.app/)
 ## Inspiration
 Food allergies are a significant concern for individuals who need to carefully monitor their diet. Reading and understanding food labels can be time-consuming and challenging, especially for people with visual impairments or those who struggle with ingredient analysis. Our team was motivated to develop an innovative solution to assist individuals in quickly identifying potential allergens in food products. Thus, we created Safe Grub, a web app that utilizes computer vision and natural language processing to detect allergies in food items.
 
